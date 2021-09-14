@@ -4,7 +4,7 @@
 
 **`3.`** then when its highhlighted type cmd dont delete it just type cmd
 
-**`4.`** when command prompt is opened type **`pip install colorama`**
+**`4.`** when command prompt is opened type **`pip install colorama`** and **`pip install pyinstaller`**
 
 **`5.`** then type **`python main.py`** 
 
